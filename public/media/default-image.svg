@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" fill="none">
+  <rect width="400" height="400" fill="#1e293b"/>
+  <circle cx="200" cy="170" r="60" stroke="#38bdf8" stroke-width="6" stroke-dasharray="10 6" fill="#0f172a"/>
+  <path d="M185 150 L215 150 L200 130 Z" fill="#38bdf8"/>
+  <path d="M175 190 C175 170 225 170 225 190" stroke="#38bdf8" stroke-width="4"/>
+  <text x="200" y="270" text-anchor="middle" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="20" font-weight="600">
+    Изображение по умолчанию
+  </text>
+  <text x="200" y="300" text-anchor="middle" fill="#64748b" font-family="system-ui, sans-serif" font-size="14">
+    Образец аналитической лаборатории
+  </text>
+</svg>
